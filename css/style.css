@@ -219,6 +219,43 @@ header {
 /* ===========Workout Inquiry sction end=========== */
 
 /* ===========our services sction start========== */
+
+.service-head {
+    text-align: center;
+    font-size: 54px;
+}
+
+.service-container {
+    margin: 100px 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.service1 {
+    width: 350px;
+    border-radius: 5px;
+    box-shadow: 15px 25px 40px grey;
+}
+
+.service1 img {
+    width: 100%;
+}
+
+.service-text {
+    padding: 20px;
+    line-height: 1.5;
+}
+
+.red-text {
+    color: red;
+}
+
+.text-btm {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
 /* ===========our services sction end========== */
 
 /* ===========Main sction ends=========== */
