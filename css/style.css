@@ -181,6 +181,44 @@ header {
 /* ===========About sction end=========== */
 
 /* ===========Workout Inquiry sction start=========== */
+
+.workout-section {
+    margin: 100px 0;
+}
+
+.workout-container {
+    width: 700px;
+    height: 200px;
+    /* margin: 0 auto; */
+    background-image: url(../images/shape/Group_33094_1.png);
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #000;
+}
+
+.workout-text h1 {
+    color: white;
+    font-size: 36px;
+}
+
+.workout-btn a {
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #000;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
 /* ===========Workout Inquiry sction end=========== */
+
+/* ===========our services sction start========== */
+/* ===========our services sction end========== */
 
 /* ===========Main sction ends=========== */
