@@ -259,7 +259,19 @@ header {
 .service1 {
     width: 350px;
     border-radius: 5px;
-    box-shadow: 15px 25px 40px grey;
+    box-shadow: 15px 10px 20px rgb(55, 55, 55);
+}
+
+.batch {
+    width: 70px;
+    position: absolute;
+}
+
+.batch img {
+    width: 100%;
+    position: relative;
+    top: -30px;
+    left: 295px;
 }
 
 .service1 img {
